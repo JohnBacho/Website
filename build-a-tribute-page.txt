@@ -1,0 +1,42 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Dr. Norman Borlaug</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+   <main id="main">
+  <h1 id="title">Dr. Norman Borlaug</h1>
+  <div id="img-div">
+    <img id="image" src="path/to/image.jpg" alt="Dr. Norman Borlaug">
+    <figcaption id="img-caption">This is a caption</figcaption>
+  </div>
+  <p id="tribute-info">
+    This is a tribute page to 
+    <a id="tribute-link" href="https://www.google.com" target="_blank">Dr. Norman Borlaug</a>
+  </p>
+</main>
+
+  </body>
+</html>
+
+
+** end of undefined **
+
+** start of undefined **
+
+#image{
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  display: block;
+}
+
+
+** end of undefined **
+
